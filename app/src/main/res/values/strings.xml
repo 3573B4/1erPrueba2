@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1erPrueba</string>
+    <string name="LblLoginUsuario">Usuario</string>
+    <string name="TxtLoginUsuario">Usuario</string>
+    <string name="LblLoginPassword">Password</string>
+    <string name="TxtLoginPassword">Password</string>
+</resources>
